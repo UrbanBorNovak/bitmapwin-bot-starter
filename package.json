@@ -1,0 +1,9 @@
+{
+  "name": "bitmapwin-bot-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": { "start": "tsx src/bot.ts" },
+  "devDependencies": { "tsx": "^4.19.0", "typescript": "^5.6.0", "@types/node": "^22.0.0" }
+}
